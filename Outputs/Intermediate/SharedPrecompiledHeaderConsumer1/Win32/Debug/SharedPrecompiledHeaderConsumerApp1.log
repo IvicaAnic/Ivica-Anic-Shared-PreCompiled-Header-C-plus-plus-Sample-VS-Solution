@@ -1,0 +1,7 @@
+﻿  Performing Custom Build Step
+  D:\.net.core.5.0\SharedPreCompiledHeaderC++Sample\Outputs\Intermediate\Shared\Win32\Debug\vc142.pdb -> D:\.net.core.5.0\SharedPreCompiledHeaderC++Sample\Outputs\Intermediate\SharedPrecompiledHeaderConsumer1\Win32\Debug\vc142.pdb
+  1 Datei(en) kopiert
+  D:\.net.core.5.0\SharedPreCompiledHeaderC++Sample\Outputs\Intermediate\Shared\Win32\Debug\vc142.idb -> D:\.net.core.5.0\SharedPreCompiledHeaderC++Sample\Outputs\Intermediate\SharedPrecompiledHeaderConsumer1\Win32\Debug\vc142.idb
+  1 Datei(en) kopiert
+  SharedPrecompiledHeaderConsumerApp1.cpp
+  SharedPrecompiledHeaderConsumerApp1.vcxproj -> D:\.net.core.5.0\SharedPreCompiledHeaderC++Sample\Outputs\Win32\Debug\SharedPrecompiledHeaderConsumer1.exe

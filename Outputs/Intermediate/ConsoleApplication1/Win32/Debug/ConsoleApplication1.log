@@ -1,0 +1,7 @@
+﻿  Performing Custom Build Step
+  D:\wwwwww\SharedPchSample\Outputs\Intermediate\Shared\Win32\Debug\vc142.pdb -> D:\wwwwww\SharedPchSample\Outputs\Intermediate\ConsoleApplication1\Win32\Debug\vc142.pdb
+  1 Datei(en) kopiert
+  D:\wwwwww\SharedPchSample\Outputs\Intermediate\Shared\Win32\Debug\vc142.idb -> D:\wwwwww\SharedPchSample\Outputs\Intermediate\ConsoleApplication1\Win32\Debug\vc142.idb
+  1 Datei(en) kopiert
+  ConsoleApplication1.cpp
+  ConsoleApplication1.vcxproj -> D:\wwwwww\SharedPchSample\Outputs\Win32\Debug\ConsoleApplication1.exe
